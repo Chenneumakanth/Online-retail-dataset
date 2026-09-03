@@ -1,0 +1,19 @@
+# Requirements for Online Retail Data Analysis & Visualization
+
+pandas
+numpy
+matplotlib
+seaborn
+
+
+Git hub requirements:
+.venv) PS D:\Phthon Assignment\Online retail dataset Data visualization> git config --global user.name "Chenneumakanth"                                                                 
+(.venv) PS D:\Phthon Assignment\Online retail dataset Data visualization> git config --global user.email "chenneumakanth@gmail.com"                                                      
+(.venv) PS D:\Phthon Assignment\Online retail dataset Data visualization> git init                                                                                                       
+Reinitialized existing Git repository in D:/Phthon Assignment/Online retail dataset Data visualization/.git/
+(.venv) PS D:\Phthon Assignment\Online retail dataset Data visualization> git remote add origin https://github.com/Chenneumakanth/Online-retail-dataset                                            
+(.venv) PS D:\Phthon Assignment\Online retail dataset Data visualization> git add Online_retail_dataset_Data_visualization.ipynb                                                         
+(.venv) PS D:\Phthon Assignment\Online retail dataset Data visualization> git branch                                                                                                     
+On branch main                                      
+(.venv) PS D:\Phthon Assignment\Online retail dataset Data visualization> git commit -m "version1"                                                                                       
+(.venv) PS D:\Phthon Assignment\Online retail dataset Data visualization> git push origin main         
