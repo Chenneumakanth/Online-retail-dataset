@@ -4,6 +4,9 @@ pandas
 numpy
 matplotlib
 seaborn
+io
+requests
+warnings
 
 
 Git hub requirements:
